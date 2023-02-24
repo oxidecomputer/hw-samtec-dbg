@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SFC-105-T2-L-D-A-K-TR")(type "KiCad")(uri "${KIPRJMOD}/SFC-105-T2-L-D-A-K-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "TFC-105-02-F-D-A-K")(type "KiCad")(uri "${KIPRJMOD}/TFC-105-02-F-D-A-K.kicad_sym")(options "")(descr ""))
+  (lib (name "SFM-105-02-X-DH-XX")(type "KiCad")(uri "${KIPRJMOD}/SFM-105-02-X-DH-XX.kicad_sym")(options "")(descr ""))
+)
